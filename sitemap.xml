@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://dev-raffaello.github.io/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/categories/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/tags/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/archives/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/about/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/posts/CSS-5th/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/posts/CSS-4th/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/posts/CSS-3rd/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/posts/CSS-2nd/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/posts/CSS-1st/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/posts/HTML/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/posts/Welcome/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/tags/front/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/tags/css/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/tags/html/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/tags/welcome/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/categories/front-end/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/categories/html/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/categories/css/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/categories/welcome/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dev-raffaello.github.io/categories/hello/</loc>
+  <lastmod>2022-03-15T12:15:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
