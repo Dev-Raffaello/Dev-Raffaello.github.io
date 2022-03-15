@@ -10,7 +10,7 @@
 -
   type: twitter
   icon: 'fab fa-twitter'   # icons powered by <https://fontawesome.com/>
-  url: 'https://twitter.com/DevRaffaello' 
+  url:  
 -
   type: email
   icon: 'fas fa-envelope'
