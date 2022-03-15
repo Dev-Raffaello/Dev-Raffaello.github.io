@@ -11,6 +11,7 @@
   type: twitter
   icon: 'fab fa-stack-twitter'   # icons powered by <https://fontawesome.com/>
   url:  'https://twitter.com/DevRaffaello'
+  noblank: true
   
 -
   type: email
