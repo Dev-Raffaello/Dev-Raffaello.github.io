@@ -599,7 +599,7 @@ img[data-src] {
 }
 
 .disabled {
-  color: rgb(206, 196, 196);
+  color: rgb(255, 255, 255);
   pointer-events: auto;
   cursor: not-allowed;
 }
@@ -708,13 +708,13 @@ $sidebar-display: "sidebar-display";
       font-weight: 900;
       font-size: 1.5rem;
       letter-spacing: 0.5px;
-      color: rgba(255, 255, 255, 0.99);
+      color: rgba(255, 255, 255, 0.988);
     }
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--sidebar-muted-color);
+    color: rgba(255, 255, 255, 0.988);
     line-height: 1.2rem;
     word-spacing: 1px;
     margin: 0.5rem 1.5rem 0.5rem 1.5rem;
