@@ -1,7 +1,7 @@
 ---
 title:  CSS animation
 date: 2022-03-27 18:17:00 +09:00
-category:  [Front_end, CSS]
+category:  [Front_end] [CSS]
 tag:  [css,front]
 ---
 
