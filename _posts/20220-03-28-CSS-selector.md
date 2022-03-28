@@ -1,6 +1,6 @@
 ---
 title:  CSS selector
-date: 2022-03-28 02:17:00 +09:00
+date: 2022-03-27 23:17:00 +09:00
 category:  [Front_end, CSS]
 tag:  [css,front]
 ---
