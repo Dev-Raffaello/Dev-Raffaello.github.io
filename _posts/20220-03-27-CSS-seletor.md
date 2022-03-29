@@ -59,11 +59,11 @@ tag:  [css,selector]
 
 ```css
 <style>
-	①[class|=dev] {color: red;} 
-	②[class~=dev] {color: blue;}
+ ①[class|=dev] {color: red;} 
+ ②[class~=dev] {color: blue;}
 </style>
 <body>
-	<div class="dev-Sanzio">12345</div> 1번에는 적용 되지만 2번에는 적용되지 않음
+ <div class="dev-Sanzio">12345</div> 1번에는 적용 되지만 2번에는 적용되지 않음
 </body>
 ```
 
@@ -108,8 +108,6 @@ tag:  [css,selector]
 - `:not 가상 클래스 선택자`: :not( 요소 ) 의 형태를 기본형으로 하며, 괄호 안에 있는 요소를 제외한 나머지 요소에 스타일을 적용할 때 사용하는 선택자이다.
 
 - 구조 가상 클래스: 웹 문서의 구조를 기준으로 특정 위치에 있는 요소를 찾아 스타일을 적용할 때 사용하는 선택자이다.
-
- 
 
 | 종류  | 설명 |
 | --- | --- |
@@ -166,7 +164,6 @@ tag:  [css,selector]
 | `rotateY(각도)` | 주어진 각도만큼 y축으로 회전한다. |
 | `rotateZ(각도)` | 주어진 각도만큼 z축으로 회전한다. |
 | `perspective(길이)` | 입체적으로 보일 수 있도록 깊잇값을 지정한다. |
-
 
 - 모든 함수는 `transform: + 함수`의 형태를 기본형으로 하며, 아래 코드처럼 값이 여러 개일 경우 쉼표(,)를 통하여 구분한다.
 
