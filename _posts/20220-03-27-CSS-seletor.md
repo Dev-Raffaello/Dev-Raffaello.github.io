@@ -59,8 +59,8 @@ tag:  [css,selector]
 
 ```css
 <style>
- ①[class|=dev] {color: red;} 
- ②[class~=dev] {color: blue;}
+ 1[class|=dev] {color: red;} 
+ 2[class~=dev] {color: blue;}
 </style>
 <body>
  <div class="dev-Sanzio">12345</div> 1번에는 적용 되지만 2번에는 적용되지 않음
